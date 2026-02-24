@@ -3,7 +3,7 @@
 ## Support Ticket Management — Student Project Assignment
 
 ## Overview: 
-    Build a backend for a company helpdesk system where employees raise tickets, support staff handle them, and managers track everything. The API follows REST principles.
+-  Build a backend for a company helpdesk system where employees raise tickets, support staff handle them, and managers track everything. The API follows REST principles.
 
 ## Goals & Requirements:
 -  Implement authentication (JWT) and secure password hashing (bcrypt).
