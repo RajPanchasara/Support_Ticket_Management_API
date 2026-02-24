@@ -1,0 +1,8 @@
+namespace Support_Ticket_Management_API.DTOs
+{
+    public class AuthRequest
+    {
+        public string Email { get; set; } = null!;
+        public string Password { get; set; } = null!;
+    }
+}
